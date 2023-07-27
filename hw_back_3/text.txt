@@ -1,0 +1,32 @@
+The Normalized Difference Vegetation Index (NDVI), one of the earliest 
+remote sensing analytical products used to simplify the complexities of 
+multi-spectral imagery, is now the most popular index used for vegetation assessment. 
+This popularity and widespread use relate
+to how an NDVI can be calculated with any multispectral
+sensor with a visible and a near-IR band. Increasingly low
+costs and weights of multispectral sensors mean they can be
+mounted on satellite, aerial, and increasingly Unmanned
+Aerial Systems (UAS). While studies have found that the
+NDVI is effective for expressing vegetation status and quantified 
+vegetation attributes, its widespread use and
+popularity, especially in UAS applications, carry inherent
+risks of misuse with end users who received little to
+no remote sensing education. This article summarizes the
+progress of NDVI acquisition, highlights the areas of NDVI
+application, and addresses the critical problems and considerations
+in using NDVI. Detailed discussion mainly covers
+three aspects: atmospheric effect, saturation phenomenon,
+and sensor factors. The use of NDVI can be highly effective
+as long as its limitations and capabilities are understood.
+This consideration is particularly important to the UAS user
+community. Multi-spectral remotely sensed imagery contains a combination
+of bands that creates a composite image to be used for
+interpretation and analysis. With multi-spectral imagery, the
+individual bands in the band composite can be transformed
+to get certain features and patterns to stand out better. Image
+band transformations have become a common practice to
+generate new images from two or more image bands for
+information extraction. The new images generated this way
+enhance representations to ground objects such as vegetation.
+There are more than one hundred vegetation indices
+that have been derived from multispectral imagery (Xue and Su 2017).
